@@ -3,8 +3,7 @@
       <h2 class="project-tagline">Instituto Gulbenkian de Ciência <br> 25-29 October 2021</h2>
     </section>
 
-    <section class="main-content">
-      <h1>
+
 <a id="course-description" class="anchor" href="#course-description" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Course description</h1>
 
 <p>Precision Oncology (PO) is already revolutionizing healthcare and will play a dominant role in the future of cancer therapy. PO integrates tumor multi-omic profiles and data that reflect the course of the disease, lifestyle and environment to guide clinical decisions during cancer patient journey such as prevention, diagnosis and treatment. Bioinformatics analyses are essential to identify patients who will benefit from treatment based on their molecular profile, and to tailor chemotherapeutic regimens accordingly. 
