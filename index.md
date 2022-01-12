@@ -1,10 +1,9 @@
 
 <h1>PO21 Precision Oncology</h1>
-      <h2 class="project-tagline">Instituto Gulbenkian de Ciência <br> 25-29 October 2021</h2>
-    </section>
+
+<h2>  Course Description  </h2>
 
 
-<a id="course-description" class="anchor" href="#course-description" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Course description</h1>
 
 <p>Precision Oncology (PO) is already revolutionizing healthcare and will play a dominant role in the future of cancer therapy. PO integrates tumor multi-omic profiles and data that reflect the course of the disease, lifestyle and environment to guide clinical decisions during cancer patient journey such as prevention, diagnosis and treatment. Bioinformatics analyses are essential to identify patients who will benefit from treatment based on their molecular profile, and to tailor chemotherapeutic regimens accordingly. 
 The aim of the course is to present a complete computational pipeline for the analysis and interpretation of Next-Generation Sequencing (NGS) data such as exome sequencing or targeted panels that are commonly used in the clinic. We will address the implementation of large-scale genomic sequencing in clinical practice and the recently developed computational strategies for the analysis of NGS data with a particular emphasis on the interpretation of the results, selection of biomarkers of drug response and afford opportunities to match therapies with the characteristics of the individual patient’s tumor. Exercises and case studies focused on cancer will be used to illustrate the principles of how genetics influence led to refining diagnoses and personalized treatment of cancer disease. Although focused on cancer, some of the principles and steps could be extrapolated to other complex diseases.
