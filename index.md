@@ -121,8 +121,3 @@ Rehm HL. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28138143">Evolving health 
 
 <h2>Authors and Contributors</h2>
 <p>Coral Fustero-Torre, María José Jiménez-Santos, Elena Piñeiro-Yáñez, Fátima Al-Shahrour & Pedro L. Fernandes</p>
-
-
-  
-  </body>
-</html>
